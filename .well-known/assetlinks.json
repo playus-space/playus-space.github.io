@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.playus.sosial_up_mobile",
+      "sha256_cert_fingerprints":
+      ["3D:D5:B3:54:98:98:7F:05:AF:17:05:B5:38:59:BD:24:DB:70:65:C1:11:DF:3E:62:9A:1F:27:41:07:A6:7F:04", "1A:76:8F:88:86:12:88:E3:C5:4E:5A:DD:20:1E:4A:A7:30:67:6F:A2:7F:66:A3:FD:EF:23:2D:6C:72:56:34:FC"]
+    }
+  }
+]

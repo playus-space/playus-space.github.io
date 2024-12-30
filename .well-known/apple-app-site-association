@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "6686403833.com.playus.sosialUpMobile",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
